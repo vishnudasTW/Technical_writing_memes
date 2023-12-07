@@ -1,7 +1,3 @@
-# Technical_writing_memes
-Collection of technical writing memes just for fun!
-
-
 
 <img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/af7352a0-cc2e-455b-9e1c-ca7e7add051d" width=50% height=50%>
 
@@ -47,7 +43,16 @@ Collection of technical writing memes just for fun!
 
 <img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/c1321757-d6c5-43db-9ebf-e4cc1d9ebf9f" width=50% height=50%>
 
+<img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/6e69455e-49b8-4ea6-a232-39d59a53c5bd" width=50% height=50%>
+
+<img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/bac8bb70-55df-4395-a9f6-fae6142b1683" width=50% height=50%>
+
+<img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/52e1f410-c3bb-4853-bcdd-ed5e3a3f028e" width=50% height=50%>
+
+<img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/b6c3f036-737f-4e0f-b9eb-17f3a75bdb3f" width=50% height=50%>
+
+<img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/bb166a19-c23e-4eb1-9623-eefb5b2741e5" width=50% height=50%>
 
 
-**Disclaimer**: _All images on this wiki are collected from the internet. We do not claim ownership of any of the images, and they are used just for fun purposes only!_
+**Disclaimer**: _All images on this wiki are collected from the internet. We do not claim ownership of any of the images, and they are used for illustrative purposes only._
 
