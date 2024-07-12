@@ -1,6 +1,11 @@
-# Click the link below to view the website - gallery version.
+___
 
-https://vishnudastw.github.io/techwrite_meme/#
+## Click the link below to view the website - gallery version:
+[Tech Writer Memes - Collection of Technical Writing Memes](https://vishnudastw.github.io/techwrite_meme/#)
+![image](https://github.com/user-attachments/assets/e7631b59-fff0-478a-8953-74b74da14244)
+
+___
+
 
 
 <img src="https://github.com/vishnudasTW/Technical_writing_memes/assets/92569350/af7352a0-cc2e-455b-9e1c-ca7e7add051d" width=50% height=50%>
