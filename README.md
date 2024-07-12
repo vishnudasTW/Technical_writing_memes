@@ -10,5 +10,4 @@ ___
 
 
 
-**Disclaimer**: _All images on this wiki are collected from the internet. We do not claim ownership of any of the images, and they are used for illustrative purposes only._
 
